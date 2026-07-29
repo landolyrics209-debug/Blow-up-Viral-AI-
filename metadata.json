@@ -1,0 +1,6 @@
+{
+  "name": "BlowUp Viral AI",
+  "description": "TikTok & Facebook Reels/Pages viral content analytics & AI script studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
